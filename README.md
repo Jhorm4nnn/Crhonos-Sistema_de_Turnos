@@ -1,12 +1,12 @@
-Sistema de Turnos para un Negocio 📅
+Sistema de Turnos para un Negocio 
 
 Un sistema de gestión de citas y turnos diseñado para solucionar los problemas de agendamiento en negocios pequeños, evitando los choques de horarios y optimizando la atención al cliente.
 
-📖 Descripción del Problema
+Descripción del Problema
 
 Actualmente, muchos negocios pequeños agendan sus citas por teléfono o utilizando un cuaderno físico. Este método tradicional es propenso a errores humanos, lo que genera constantes choques de horario, insatisfacción y, en última instancia, la pérdida de clientes.
 
-🚀 Descripción del Sistema
+ Descripción del Sistema
 
 Para dar solución a esta problemática, este sistema permite crear turnos, asignarlos a los clientes correspondientes y validar los horarios para evitar que dos citas se crucen o solapen para el mismo profesional o recurso disponible.
 
@@ -42,7 +42,7 @@ Frontend: [Lenguaje / Framework]
 
 Base de Datos: [Motor de BD]
 
-👥 Autores
+Autores
 
 Proyecto desarrollado por estudiantes de la Universidad de Pamplona:
 
